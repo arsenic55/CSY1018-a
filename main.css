@@ -1,0 +1,15 @@
+body{
+	background-color: lightblue;
+	margin:0;
+	text-align: center;
+}
+header{
+	background-color: darkblue;
+	margin: 0;
+	padding:5%;
+}
+section{
+	background-color: green;
+	margin:0;
+	padding:5%;
+}
